@@ -1,1 +1,1 @@
-Options for chaing of responsibility
+Options for chain of responsibility
